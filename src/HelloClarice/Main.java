@@ -1,3 +1,5 @@
+//2 -  Hello Clarice
+//Escreva um programa em Java em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
 package HelloClarice;
 import java.util.Scanner;
 
